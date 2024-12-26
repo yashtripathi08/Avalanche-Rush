@@ -10,13 +10,7 @@ The multiplayer mode shares the same game mechanics as the single player, howeve
 Score sharing occurs through a real-time multiplayer function provided by FireBase Database.
 ![Multiplayer](assets/multiplayer.png)
 
-## Contributors
-* Alicja Jonczyk
-* Kacper Multan
-* Arianna Moser
-* Margaux Xu
-* Gagan Gupta
-* Nicolò Costa
+
 
 ## License
 This project is available under a closed license. All rights reserved.
